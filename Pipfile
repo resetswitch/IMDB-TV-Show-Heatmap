@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+bs4 = "==0.0.1"
+requests = "==2.25.1"
+pandas = "==1.1.4"
+numpy = "==1.19.4"
+plotly = "==4.14.1"
+nbformat = "==5.0.8"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
